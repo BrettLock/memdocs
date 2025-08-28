@@ -150,7 +150,7 @@ For corporate-owned devices with a work profile, some settings only apply in the
   This setting applies to:
 
   - Fully managed devices running any Android version
-  - Corporate owned devices with a work profile running Android 10 or older
+  - Corporate owned devices with a work profile running Android 10 or later
 
 ### Fully managed and dedicated devices
 
